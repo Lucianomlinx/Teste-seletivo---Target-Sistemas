@@ -1,0 +1,15 @@
+Nessa questão eu tive quatro variaves para usar:
+- Luz
+- ligada ou desligada
+- Temperatura
+- Tempo
+
+Primeiro passo:
+- lâmpada A: Eu não ligaria em nenhum momento.
+- lâmpada B: Ligaria apenas antes de sair.
+- lâmpada C: Eu ligaria deixava ela ligada por 5min e antes de sair desligaria
+
+Com isso, temos a seguinte situação:
+A: Desligada e fria.
+B: Acessa mas fria.
+C: Desligada porém com temperatura elevada a mais que a normalidade.
